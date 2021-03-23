@@ -1,0 +1,3 @@
+--Directories--
+2in_7out/x_10layers_100neurons_BatchNorm_MSE_RE_1e-3lr_200epoch_Standardization_After_acc_1/
+2in_7out/x_10layers_1000neurons_BatchNorm_MSE_RE_1e-3lr_200epoch_Standardization_After_acc_2/
